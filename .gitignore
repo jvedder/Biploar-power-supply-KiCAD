@@ -1,0 +1,6 @@
+# KiCad .gitignore
+
+# Backup archives
+*-backups/
+
+
