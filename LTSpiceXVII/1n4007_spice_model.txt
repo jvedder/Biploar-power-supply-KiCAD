@@ -1,0 +1,10 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model d1n4007 d is = 1.43733E-008 n = 1.80829 rs = 0.0414712
++ eg = 1.11 xti = 3 tnom = 27
++ cjo = 2.8119E-011 vj = 0.700053 m = 0.346714 fc = 0.5
++ tt = 4.10886E-006 bv = 1100 ibv = 10 af = 1 kf = 0
