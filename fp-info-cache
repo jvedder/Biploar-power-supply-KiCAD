@@ -1,4 +1,4 @@
-20910233092923022
+20911906415865729
 $Local
 FuseHolder_6.8x19.8mm_P3.4x13.5mm_Vetical
 Through hole straight pin header, 1x04, 2.54mm pitch, single row
@@ -41,6 +41,13 @@ http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
 0
 1
 1
+$Local
+TO-220-3_Vertical_Heatsink_19.1x9.7mm
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
