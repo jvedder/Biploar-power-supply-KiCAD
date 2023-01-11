@@ -1,4 +1,4 @@
-20911906415865729
+20916926633067864
 $Local
 FuseHolder_6.8x19.8mm_P3.4x13.5mm_Vetical
 Through hole straight pin header, 1x04, 2.54mm pitch, single row
@@ -36,6 +36,27 @@ Resistor Axial_DIN0516 series Axial Horizontal pin pitch 30.48mm 2W length 15.5m
 2
 $Local
 ScrewTerminal_01x01_6-32_10mm
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+
+0
+1
+1
+$Local
+ScrewTerminal_01x01_6-32_10x10mm
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+
+0
+1
+1
+$Local
+ScrewTerminal_01x01_6-32_12x12mm
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+
+0
+1
+1
+$Local
+ScrewTerminal_01x01_6-32_12x14mm
 http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
 
 0
