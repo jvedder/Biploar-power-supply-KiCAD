@@ -1,4 +1,4 @@
-20916926633067864
+20925294654603222
 $Local
 FuseHolder_6.8x19.8mm_P3.4x13.5mm_Vetical
 Through hole straight pin header, 1x04, 2.54mm pitch, single row
@@ -14,6 +14,13 @@ Resistor Axial_DIN0414 series Axial Horizontal pin pitch 25.4mm 2W length 11.9mm
 2
 2
 $Local
+MountingHole_#6-32_Pad_10mm
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+$Local
 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -28,6 +35,13 @@ resistor handsolder
 2
 2
 $Local
+R_Axial_L13.1mm_D5.6mm_P20.0mm_Horizontal
+Resistor, Axial_DIN0614 series, Axial, Horizontal, pin pitch=20.32mm, 1.5W, length*diameter=14.3*5.7mm^2
+Resistor Axial_DIN0614 series Axial Horizontal pin pitch 20.32mm 1.5W length 14.3mm diameter 5.7mm
+0
+2
+2
+$Local
 R_Axial_L25.5mm_D8.7mm_P30.48mm_Horizontal
 Resistor, Axial_DIN0516 series, Axial, Horizontal, pin pitch=30.48mm, 2W, length*diameter=15.5*5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0516 series Axial Horizontal pin pitch 30.48mm 2W length 15.5mm diameter 5mm
@@ -35,28 +49,14 @@ Resistor Axial_DIN0516 series Axial Horizontal pin pitch 30.48mm 2W length 15.5m
 2
 2
 $Local
-ScrewTerminal_01x01_6-32_10mm
-http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-
+R_Axial_L31.1mm_D5.6mm_P20.0mm_Horizontal
+Resistor, Axial_DIN0614 series, Axial, Horizontal, pin pitch=20.32mm, 1.5W, length*diameter=14.3*5.7mm^2
+Resistor Axial_DIN0614 series Axial Horizontal pin pitch 20.32mm 1.5W length 14.3mm diameter 5.7mm
 0
-1
-1
+2
+2
 $Local
-ScrewTerminal_01x01_6-32_10x10mm
-http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-
-0
-1
-1
-$Local
-ScrewTerminal_01x01_6-32_12x12mm
-http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-
-0
-1
-1
-$Local
-ScrewTerminal_01x01_6-32_12x14mm
+ScrewTerminal_01x01_#6-32_10mm
 http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
 
 0
@@ -69,6 +69,41 @@ TO-220-3 Vertical RM 2.54mm
 0
 3
 3
+$MyFootprints
+MountingHole_#6-32_Pad_10mm
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+$MyFootprints
+ScrewTerminal_01x01_#6-32_10mm
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+
+0
+1
+1
+$MyFootprints
+ScrewTerminal_01x01_#6-32_10x10mm
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+
+0
+1
+1
+$MyFootprints
+ScrewTerminal_01x01_#6-32_12x12mm
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+
+0
+1
+1
+$MyFootprints
+ScrewTerminal_01x01_#6-32_12x14mm
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+
+0
+1
+1
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
