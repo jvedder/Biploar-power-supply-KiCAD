@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 47,
+    "active_layer": 31,
     "active_layer_preset": "Routing",
     "auto_track_width": false,
     "hidden_nets": [],
