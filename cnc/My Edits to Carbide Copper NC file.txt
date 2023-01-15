@@ -1,0 +1,29 @@
+Trace Contour NC File
+=====================
+
+1. Export as 1, 2 and 3 passes. Use BeyondCompare to split it into 3 separate files
+
+2. Edit G-code: after set-up (G17,G21,G54,G90) and before the first G00 rapid, add this:
+
+M03 S1000
+G00 Z3.000
+
+3. Edit G-code: Change all "G01 F400 " to "G01 F100 "
+
+4. Edit G-code: change all "G01 F750 " to "G01 F100 "
+
+Dril NC File
+============
+
+1. Edit G-code: after set-up (G17,G21,G54,G90) and before the first G00 rapid, add this:
+
+M03 S1000
+G00 Z3.000
+
+2. Remove Tool changes, T0, T1, T2, etc (Not sure if this is needed, though)
+
+Misc Notes
+==========
+1. Carbide Copper uses a Z=3.0 for rapid clearance
+
+2. Carbice Copper plunges the drill 0.2 mm below bottom
