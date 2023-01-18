@@ -3,4 +3,5 @@
 # Backup archives
 *-backups/
 
-
+# Remove Autosave files
+_autosave-*
