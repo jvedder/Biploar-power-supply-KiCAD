@@ -7,8 +7,11 @@
   (paper "USLetter")
   (title_block
     (title "Bipolar Power Supply")
-    (date "2022-12-30")
+    (date "2023-01-17")
     (rev "0")
+    (comment 1 "THE PRODUCT IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.")
+    (comment 2 "MIT License")
+    (comment 3 "(C) 2023 John Vedder")
   )
 
   (layers
